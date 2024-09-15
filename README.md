@@ -1,5 +1,5 @@
 ### SQL for Data Science Final Project
-This final project was provided from the University of California at Davis through Coursera.
+This final project was provided by the University of California at Davis.
 The datasets were sourced from the United States Department of Agriculture's (USDA) open data portal and the queries were run using MySQL rather than SQLite. 
 
 The tables were created using [table_creation.sql](https://github.com/kcohane00/sql_for_data_science_final_project/blob/main/table_creation.sql).
