@@ -2,6 +2,14 @@
 This final project was provided from the University of California at Davis through Coursera.
 The datasets were sourced from the United States Department of Agriculture's (USDA) open data portal and the queries were run using MySQL rather than SQLite. 
 
+The tables were created using [table_creation.sql](https://github.com/kcohane00/sql_for_data_science_final_project/blob/main/table_creation.sql).
+
+The data was cleaned up using the following syntax using the Cheese Production Table as an example:
+
+`
+UPDATE cheese_production SET value = REPLACE(value, ',', '');
+`
+
 #### _The questions and answers are below._
 
 **Question 1.**
